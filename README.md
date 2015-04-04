@@ -2,7 +2,7 @@ pyuci
 ========
 
 :pyuci: Python UCI module
-:Copyright: Copyright (c) 2013 CESNET, z.s.p.o., Jiri Slachta, slachta@cesnet.cz
+:Copyright: Copyright (c) 2015 CESNET, z.s.p.o., Jiri Slachta, slachta@cesnet.cz
 :License: GPL
 :Homepage: http://homeproj.cesnet.cz/projects/besip
 
